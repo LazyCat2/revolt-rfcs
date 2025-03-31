@@ -47,7 +47,8 @@ N/A
 # Security concerns
 
 Only server owner can transfer server ownership so server ownership cannot be "stolen" by anyone.
+MFA or password is required to be provided so that a hacker with victim's token will not be able to steal server without password or MFA
 
 # Future ideas
 
-- Make 2FA verification (if set up by a current server owner) before transfering server ownership.
+None
