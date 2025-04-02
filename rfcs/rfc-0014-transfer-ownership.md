@@ -2,7 +2,7 @@
 - Start Date: 03/03/2025
 - RFC PR: #14
 - Tracking Issue: https://github.com/revoltchat/backend/issues/196
-- Status: draft
+- Status: accepted
 
 # Summary
 
@@ -10,7 +10,7 @@ Change current owner of a server.
 
 # Motivation
 
-Currenlty ownership can only be transfered manually by Revolt team. That is not very good because you need to wait for a team member to check your email.
+Currently ownership can only be transfered manually by Revolt team. That is not very good because you need to wait for a team member to check your email.
 
 # Guide-level explanation
 
